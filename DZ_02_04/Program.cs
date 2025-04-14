@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp13
+﻿namespace DZ_02_04
 {
     internal class Program
     {
